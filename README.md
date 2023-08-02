@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RaffayElahi
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning python, web development and also data science
-- 💞️ I’m looking to collaborate on web development or python machine learning
-- 📫 How to reach me by contacting at my gmail'honeybee33392@gmail.com'
+- 👀 I’m interested in web development and also machine learning.
+- 🌱 I’m currently machine learning and data science.
+- 💞️ I’m looking to collaborate on web development.
+- 📫 How to reach me by contacting at my gmail'raffayelahii@gmail.com'
 
 <!---
 RaffayElahi/RaffayElahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
