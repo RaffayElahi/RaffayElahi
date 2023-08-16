@@ -34,7 +34,7 @@
 
 ###
 <h2 align="center"> You can reach me out using these social handles</h2>
-<div align="left">You can reach me out using these social handles
+<div align="left">
   <a href="https://www.instagram.com/raffayeelahi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
